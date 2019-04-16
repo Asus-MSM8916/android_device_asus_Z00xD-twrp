@@ -86,6 +86,7 @@ TW_DEFAULT_BRIGHTNESS := "30"
 TW_BRIGHTNESS_PATH := "/sys/class/leds/lcd-backlight/brightness"
 TW_EXTRA_LANGUAGES := true
 TW_INPUT_BLACKLIST := "hbtp_vm"
+TW_HAS_EDL_MODE := true
 
 # exFAT FS Support
 TW_INCLUDE_FUSE_EXFAT := true
