@@ -22,7 +22,7 @@
 # *not* include it on all devices, so it is safe even with hardware-specific
 # components.
 
-LOCAL_PATH := device/asus/Z010D
+LOCAL_PATH := device/asus/Z00ED
 
 # Bootloader
 TARGET_NO_BOOTLOADER := true
