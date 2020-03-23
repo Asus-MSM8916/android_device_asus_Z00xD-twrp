@@ -7,3 +7,5 @@
 for var in eng user userdebug; do
   add_lunch_combo omni_Z00xD-$var
 done
+
+export ALLOW_MISSING_DEPENDENCIES=true
