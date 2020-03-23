@@ -5,5 +5,5 @@
 # function: add_lunch_combo generic-eng
 
 for var in eng user userdebug; do
-  add_lunch_combo omni_Z00ED-$var
+  add_lunch_combo omni_Z00xD-$var
 done

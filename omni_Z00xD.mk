@@ -14,7 +14,7 @@
 # limitations under the License.
 #
 # Release name
-PRODUCT_RELEASE_NAME := Z00ED
+PRODUCT_RELEASE_NAME := Z00xD
 
 $(call inherit-product, build/target/product/embedded.mk)
 
@@ -42,8 +42,8 @@ PRODUCT_COPY_FILES += \
     $(TZDATAPATH)/tzdata:recovery/root/system/usr/share/zoneinfo/tzdata
 endif
 
-PRODUCT_NAME := omni_Z00ED
-PRODUCT_DEVICE := Z00ED
+PRODUCT_NAME := omni_Z00xD
+PRODUCT_DEVICE := Z00xD
 PRODUCT_BRAND := Asus
 PRODUCT_MANUFACTURER := Asus
 PRODUCT_MODEL := Zenfone 2 Laser
